@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi, Welcome to my space!
+My name is Luciana and I am a software engineering student and I'm currently pursuing the goal of becoming a FULL-STACK DEVELOPER.
+🟣 Languages: C++, Python.
+🟪 Linkedin: www.linkedin.com/in/lucianasanchezsilva
+🟣
+🟪 
 <!--
 **luccsss/luccsss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
