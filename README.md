@@ -1,6 +1,6 @@
 ### Welcome to my space!
 I am Luciana, a dedicated student in the field of software engineering, fervently working towards the desire of becoming a Full-Stack Developer. 🚀
-- 📌 I'm currently working with these Languages: C++ and Python.
+- 📌 I'm currently working with these Languages: C++, Python, Java, HTML5 and CSS.
 - 🌐 My LinkedIn: www.linkedin.com/in/lucianasanchezsilva
 - 🖇 Extra info: I am also delving into digital graphic design. 🎨
 - 🌈 Hobbies: reading all kinds of topics, playing the guitar and spoiling my dogs c:
