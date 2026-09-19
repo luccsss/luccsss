@@ -1,8 +1,5 @@
 ### Welcome to my space!
-I am Luciana, a dedicated student in the field of software engineering, fervently working towards the desire of becoming a Full-Stack Developer. 🚀
-- 📌 I'm currently working with these Languages: C++, Python, Java, HTML5 and CSS.
-- 📌 Extra info: I am also delving into digital graphic design. 🎨
-- 📌 Hobbies: reading all kinds of topics, playing the guitar and spoiling my dogs
+I am Luciana...
 <!--
 **luccsss/luccsss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
